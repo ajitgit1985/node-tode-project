@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "devopsajit85/node-app-test-new"
+    image: "devopsajit85/node-projct"
     ports:
       - "8000:8000"
